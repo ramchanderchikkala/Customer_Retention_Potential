@@ -1,6 +1,6 @@
 # Customer_Retention_Potential
 
-This project is afind out the satsifactory levels of customers.
+This project is to find out the satsifactory levels of customers.
 
 
 ## Introduction
